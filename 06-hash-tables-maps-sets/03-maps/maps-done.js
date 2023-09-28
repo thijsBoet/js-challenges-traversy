@@ -4,9 +4,6 @@ const nameMap = new Map([
   [3, 'Joe'],
 ]);
 
-const myFunction = () => {};
-const emptyObj = {};
-
 const map2 = new Map([
   ['name', 'John'],
   [1, 'number one'],
